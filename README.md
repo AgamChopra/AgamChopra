@@ -5,9 +5,8 @@ I am highly passionate about research related to applications of Machine Learnin
 
 Some things about me:
 
-- 🔭 I’m currently working on an ML project and sharpening my Mathematics skills 😄
-- 🌱 I’m currently learning Deep Learning, Data Science, and Database languages such as SQL.
+- 🔭 I’m currently doing research at KurtLab for visualizing 3d aMRI displacement fields of the brain using deep learning 😄
 - 👯 I’m looking to collaborate on Machine Learning and Data Science projects.
-- 🤔 I’m looking for help with image processing and advance data visualization.
+- 🤔 I’m looking for help with implimenting a 3d-UNET model for predicting 3d displacement fields.
 - 📫 Please feel free to reach out to me for anything related to data science, physics, and physical sciences in general 😄: achopra4@stevens.edu
 - ⚡ Fun fact: I love old sci-fi movies like Blade Runner, Ghost in a Shell, Matrix, Bicentennial Man, I Robot, A.I., Terminator 😨, and more! 😄
