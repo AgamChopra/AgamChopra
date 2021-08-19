@@ -5,8 +5,6 @@ My dream is to research artificial neural nets that accurately mimic abstract br
 
 Some things about me:
 
-- 🔭 I’m currently doing research at KurtLab for visualizing 3d aMRI displacement fields of the brain using deep learning 😄
-- 👯 I’m looking to collaborate on Machine Learning and Data Science projects.
-- 🤔 I’m looking for help with implimenting a 3d-UNET model for predicting 3d displacement fields.
-- 📫 Please feel free to reach out to me for anything related to data science, physics, and physical sciences in general 😄: achopra4@stevens.edu
+- 🔭 I’m currently doing research at KurtLab 😄
+- 📫 Please feel free to reach out to me for anything related to ML, physics, and physical sciences in general 😄: achopra4@stevens.edu
 - ⚡ Fun fact: I love old sci-fi movies like Blade Runner, Ghost in a Shell, Matrix, Bicentennial Man, I Robot, A.I., Terminator 😨, and more! 😄
