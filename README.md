@@ -1,4 +1,4 @@
-### 'Utah Teapot!' ->Seq2Seq-> 'Hello World!'
+### 'Hello World!'
 
 Some things about me:
 
